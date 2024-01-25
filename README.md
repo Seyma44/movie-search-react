@@ -27,7 +27,7 @@ Before you begin, make sure you have the following tools installed on your syste
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/setma44/search-movie.git
+   git clone https://github.com/Seyma44/search-movie.git
    cd search-movie
 
 2. Install project dependencies using Yarn:
